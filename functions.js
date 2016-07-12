@@ -43,7 +43,7 @@ console.log("sum", sum);
 
 
 function substract(number1,number2) {
-	return number1-number2;
+	return number1 - number2;
 }
 var difference = substract(a,b);
 console.log('difference', difference);
@@ -58,7 +58,7 @@ console.log('difference', difference);
 
 
 function multiply(number1,number2) {
-	return number1*number2;
+	return number1 * number2;
 }
 var product = multiply(a,b);
 console.log('product', product);
